@@ -11,6 +11,8 @@ custom_sh_path=~/Linux_ShellScript/
 alias post='bash ${custom_sh_path}blog_make_postMD.sh'
 ```
 
+usage
+
 ```cmd
 post "title"
 ```
