@@ -4,6 +4,7 @@ personal script
 ### blog_make_postMD.sh
 
 make .bash_aliases file 
+
 add below code
 ```
 custom_sh_path=~/Linux_ShellScript/
